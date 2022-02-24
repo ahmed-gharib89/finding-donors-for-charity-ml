@@ -1,0 +1,7 @@
+{
+  "python.formatting.provider": "black",
+  "python.defaultInterpreterPath": "/home/ribo/.local/share/virtualenvs/finding-donors-for-charity-ml-V8_ZxL7T/bin/python",
+  "editor.formatOnSave": true,
+  "python.linting.pylintEnabled": false
+}
+
